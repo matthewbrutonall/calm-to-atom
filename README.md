@@ -1,5 +1,7 @@
 # CALM to AtoM Converter
 
+![Catalogue records crossing systems while their hierarchy stays connected](assets/calm-to-atom.png)
+
 [![CI](https://github.com/matthewbrutonall/calm-to-atom/actions/workflows/ci.yml/badge.svg)](https://github.com/matthewbrutonall/calm-to-atom/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
