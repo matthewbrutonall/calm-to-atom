@@ -9,6 +9,14 @@
 A tool to convert exported CSV data from Axiell CALM to an AtoM (Access to Memory) compatible CSV format. 
 Designed for UK archivists migrating away from legacy systems to modern open-source archival platforms.
 
+## Install with your AI agent
+
+Copy and paste this into your agent:
+
+```text
+Install the CALM to AtoM converter from https://github.com/matthewbrutonall/calm-to-atom on my computer. Check that Python 3.8 or later is available, create a virtual environment, install the normal command-line package from the repository, and verify that `calm2atom --help` works. Tell me how to run it. Do not process any collection data yet.
+```
+
 ## Installation
 
 ```bash
